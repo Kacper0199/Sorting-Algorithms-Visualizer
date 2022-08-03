@@ -96,4 +96,4 @@ Running **_main.py_** you can sort array (in ascending order) represented by bar
 
 ## 4. Contributing
 
-Feel free to contribute if you want to implement other sorting algorithms in **_algorithms.py_** or create better visualizer.
+Feel free to contribute if you want to implement other sorting algorithms in **_algorithms.py_** or create better visualizer. **Please be sure to checkout [CONTRIBUTING](https://github.com/Kacper0199/Sorting-Algorithms-Visualizer/blob/main/CONTRIBUTING.md) if you want to help develop this project!**
